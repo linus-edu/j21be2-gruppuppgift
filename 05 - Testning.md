@@ -23,7 +23,7 @@ i spring, JWT-filter, controllern som anropas osv.
 Skriv integrationstest som bekräftar att:
 * Det **inte går** att komma åt `GET /customers` **utan** en giltig jwt-token, och att felkoden är `403`
 * Att det **går** att komma åt `GET /customers` **med** en giltig jwt-token
-* Att det **går** att komma åt `GET /orders` **utan** en jwt-token
+* Att det **går** att komma åt `GET /items` **utan** en jwt-token
 
 Exempel på att hämta en token i ett test:  
 https://github.com/linus-edu/j21be2-trava/blob/main/api/src/test/java/se/mbi/be2/trava/api/MockMvcIntTest.java
