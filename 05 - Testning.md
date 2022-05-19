@@ -3,7 +3,7 @@ Testning
 
 Uppgiften går ut på att säkerställa att komponenterna vi har satt ihop fungerar som de ska. Det kan göras med testning på olika nivåer.
 
-För VG behöver uppgift A och antingen B eller C göras.
+**För VG behöver uppgift A och antingen B eller C göras**
 
 ### Enhetstestning
 * Enhetstester ska vara små och snabba att köra
