@@ -7,5 +7,5 @@ Instruktioner för gruppuppgift
  * [04 - Kvittoservice med RabbitMQ (VG)](04%20-%20Kvittoservice%20med%20RabbitMQ.md)
  * [05 - Testning (VG)](05%20-%20Testning.md)
  * 06 - API-spec i swagger(G) - TBD
- * 07 - Starta allt med docker compose (VG) - TBD
+ * [07 - Starta allt med docker compose (VG)](07%20-%20Starta%20allt%20med%20docker%20compose.md)
  * 08 - Lämna in repot i gruppuppgiften - TBD
