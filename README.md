@@ -6,6 +6,6 @@ Instruktioner för gruppuppgift
  * [03 - Autentisering med JWT (G)](03%20-%20Autentisering%20med%20JWT.md)
  * [04 - Kvittoservice med RabbitMQ (VG)](04%20-%20Kvittoservice%20med%20RabbitMQ.md)
  * [05 - Testning (VG)](05%20-%20Testning.md)
- * 06 - API-spec i swagger(G) - TBD
+ * [06 - API-dokumentation (G)](06%20-%20API-dokumentation.md)
  * [07 - Starta allt med docker compose (VG)](07%20-%20Starta%20allt%20med%20docker%20compose.md)
  * 08 - Lämna in repot i gruppuppgiften - TBD
